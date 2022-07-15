@@ -7,7 +7,6 @@ After going through my brief carefully, it states that my client wanted to see a
 My first task was to clean and model the data, and finally identify the columns that will be useful to achieve the goal of the analysis and merge them all from the provided datasets.
 To complete this task, I used my knowledge of data Modeling learnt during the #30daysoflearning.
 
-
 # Problem Statement: 
 This exercise required three tasks to be completed:
 1. Requirements Gathering: This involves looking at the goal of the project started in the introduction above then think about and determine which available datasets will be required to get the job done.
